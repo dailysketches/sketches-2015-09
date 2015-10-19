@@ -1,10 +1,10 @@
-Sketch 2015-07-26
+Sketch 2015-09-03
 --
-This subfolder of the [sketches-2015-07pre repo](https://github.com/dailysketches/sketches-2015-07pre) is the root of an individual openFrameworks sketch. It contains the full source code used to generate this sketch:
+This subfolder of the [sketches-2015-09 repo](https://github.com/dailysketches/sketches-2015-09) is the root of an individual openFrameworks sketch. It contains the full source code used to generate this sketch:
 
-![Sketch 2015-07-26](https://github.com/dailysketches/assets-2015-07pre/blob/master/openFrameworks/2015-07-26.gif?raw=true)
+![Sketch 2015-09-03](https://github.com/dailysketches/sketches-2015-09/blob/master/2015-09-03/bin/data/out/2015-09-03.gif?raw=true)
 
-This source code is published automatically along with each sketch I add to [Daily Sketches](http://dailysketches.github.io). Here is a [permalink to this sketch](http://dailysketches.github.io/sketch-26-07-2015/) on the Daily Sketches site.
+This source code is published automatically along with each sketch I add to [Daily Sketches](http://dailysketches.github.io). Here is a [permalink to this sketch](http://dailysketches.github.io/sketch-03-09-2015/) on the Daily Sketches site.
 
 Run this yourself
 --
